@@ -1,0 +1,20 @@
+{
+    "account": [
+        {
+            "id": 1,
+            "username": "UsertestA",
+            "password": "Test0001",
+            "authorities": {
+                "authority": "ROLE_ADMIN"
+            }
+        },
+        {
+            "id": 2,
+            "username": "UsertestB",
+            "password": "Test0002",
+            "authorities": {
+                "authority": "ROLE_USER"
+            }
+        }
+    ]
+}
